@@ -78,11 +78,12 @@
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Live Demo |
-|---------|-------------|------------|-----------|
-| **Cloud Task Manager** | Serverless task management system | AWS Lambda, React, DynamoDB | [Demo](https://demo.com) |
-| **AI Code Reviewer** | ML-powered code analysis tool | Python, TensorFlow, FastAPI | [Live](https://demo.com) |
-| **IoT Health Monitor** | Real-time patient monitoring system | Kotlin, MQTT, Firebase | [Demo](https://demo.com) |
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</p>
+
+<br><br>
+
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
