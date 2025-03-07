@@ -30,6 +30,7 @@
 
 <!-- About Me Section -->
 ## 🔍 About Me
+
 <table>
   <tr>
     <td>
@@ -56,6 +57,8 @@
 <!-- Technical Skills Section -->
 ## 🛠 Technical Proficiencies
 
+<div align="center">
+
 | Category        | Skills        |
 |-----------------|---------------|
 | Frameworks      | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
@@ -67,6 +70,9 @@
 | APIs            | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) |
 | Design Tools    | ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 | Learning        | ![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) |
+
+</div>
+
 
 <!-- Section Separator -->
 <p align="center">
