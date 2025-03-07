@@ -35,6 +35,12 @@
 - 📫 How to reach me **sehannawamina@gmail.com**
 - ⚡ Fun fact **🚀 My code works 99% of the time… the other 1% is spent Googling.**
 
+<!-- Section Separator -->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" 
+       width="1920" />
+</p>
+
 <!-- Technical Skills Section -->
 ## 🛠 Technical Proficiencies
 
@@ -49,6 +55,12 @@
 | APIs            | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white) |
 | Design Tools    | ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 | Learning        | ![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white) |
+
+<!-- Section Separator -->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" 
+       width="1920" />
+</p>
 
 <!-- GitHub Statistics Section -->
 ## 📈 GitHub Analytics
@@ -69,6 +81,12 @@
        alt="Activity Graph" />
 </p>
 
+<!-- Section Separator -->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" 
+       width="1920" />
+</p>
+
 <!-- Achievements Section -->
 ## 🏆 Achievements
 
@@ -77,8 +95,12 @@
        alt="GitHub Trophies" />
 </p>
 
-<!-- Featured Projects Section -->
-## 🌟 Featured Projects
+<!-- Section Separator -->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" 
+       width="1920" />
+</p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" 
@@ -86,45 +108,74 @@
        alt="Projects GIF">
 </p>
 
+<!-- Section Separator -->
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" 
+       width="1920" />
+</p>
+
 <!-- Social Links Section -->
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/prabod-sehan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
-         alt="LinkedIn" 
-         height="30" 
-         width="40" />
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/prabod-sehan" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+         alt="LinkedIn"
+         height="40"
+         style="transition: transform 0.3s ease;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://fb.com/sehannawamina" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-         alt="Facebook" 
-         height="30" 
-         width="40" />
+
+  <!-- Facebook -->
+  <a href="https://fb.com/sehannawamina" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+         alt="Facebook"
+         height="40"
+         style="transition: transform 0.3s ease;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://instagram.com/sehannawamina" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         alt="Instagram" 
-         height="30" 
-         width="40" />
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/sehannawamina" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+         alt="Instagram"
+         height="40"
+         style="transition: transform 0.3s ease;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
   </a>
-  <a href="https://www.youtube.com/c/eagleeye" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" 
-         alt="YouTube" 
-         height="30" 
-         width="40" />
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/c/eagleeye" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
+         alt="YouTube"
+         height="40"
+         style="transition: transform 0.3s ease;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+</p>
+<!-- Footer Section -->
+<p align="center">
+  <a href="https://github.com/gpsnawamina">
+    <img src="https://img.shields.io/badge/👁_Views-150-00C7FF?style=flat-square&logo=reverbnation&logoColor=white&gradient=linear-gradient(45deg,#00c7ff,#0066ff)"
+         alt="Profile Views"
+         style="margin-right: 12px;">
+  </a>
+  
+  <a href="https://github.com/gpsnawamina?tab=followers">
+    <img src="https://img.shields.io/badge/✨_Followers-75-8A2BE2?style=flat-square&logo=githubsponsors&logoColor=white&gradient=linear-gradient(45deg,#8A2BE2,#FF69B4)"
+         alt="GitHub Followers">
   </a>
 </p>
 
-<!-- Footer Section -->
+<!-- Section Separator -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gpsnawamina&style=flat-square&color=blue" 
-       alt="Profile Views"/>
-  <br>
-  <a href="https://github.com/gpsnawamina?tab=followers">
-    <img src="https://img.shields.io/github/followers/gpsnawamina?label=Follow&style=social" 
-         alt="GitHub Followers" />
-  </a>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" 
+       width="1920" />
 </p>
 
 <!-- Snake Animation Contribution Graph -->
