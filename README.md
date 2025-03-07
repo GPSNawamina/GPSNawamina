@@ -89,13 +89,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Serverless Architectures with AWS Lambda](https://medium.com/p/123456)
-- [Optimizing React Performance with Concurrent Mode](https://medium.com/p/789012)
-- [Kubernetes in Production: Best Practices](https://medium.com/p/345678)
-<!-- BLOG-POST-LIST:END -->
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
