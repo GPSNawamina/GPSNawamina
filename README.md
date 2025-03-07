@@ -30,10 +30,22 @@
 
 <!-- About Me Section -->
 ## 🔍 About Me
-- 🌱 I’m currently learning **Spring Boot**
-- 💬 Ask me about **JavaScript, C++, C, PHP, HTML, CSS, JAVA**
-- 📫 How to reach me **sehannawamina@gmail.com**
-- ⚡ Fun fact **🚀 My code works 99% of the time… the other 1% is spent Googling.**
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🌱 I’m currently learning <strong>Spring Boot</strong></li>
+        <li>💬 Ask me about <strong>JavaScript, C++, C, PHP, HTML, CSS, Java</strong></li>
+        <li>📫 How to reach me: <strong>sehannawamina@gmail.com</strong></li>
+        <li>⚡ Fun fact: <strong>🚀 My code works 99% of the time… the other 1% is spent Googling.</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" 
+           width="400">
+    </td>
+  </tr>
+</table>
 
 <!-- Section Separator -->
 <p align="center">
@@ -93,19 +105,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gpsnawamina&theme=algolia&margin-w=15&column=4" 
        alt="GitHub Trophies" />
-</p>
-
-<!-- Section Separator -->
-<p align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" 
-       width="1920" />
-</p>
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" 
-       width="900" 
-       alt="Projects GIF">
 </p>
 
 <!-- Section Separator -->
